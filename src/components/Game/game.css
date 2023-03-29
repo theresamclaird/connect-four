@@ -1,0 +1,8 @@
+.connect-four {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.player-container {
+  margin-left: 10px;
+}

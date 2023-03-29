@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+
+button {
+  background-image: linear-gradient(blue, navy);
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+select {
+  border: solid 1px navy;
+  padding: 10px 20px;
+}
+
+.raised-borders {
+  border: solid 1px darkblue;
+  border-top-color: blue;
+  border-left-color: mediumblue;
+}

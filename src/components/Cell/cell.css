@@ -1,0 +1,33 @@
+.cell {
+  background-color: white;
+  border: solid 5px navy;
+  border-right-color: mediumblue;
+  border-bottom-color: blue;
+  border-radius: 56px;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+}
+
+.red.cell {
+  background-image: linear-gradient(to bottom right, red, darkred);
+}
+.yellow.cell {
+  background-image: linear-gradient(to bottom right, yellow, gold);
+}
+.blue.cell {
+  background-image: linear-gradient(to bottom right, blue, darkblue);
+}
+.orange.cell {
+  background-image: linear-gradient(to bottom right, orange, darkorange);
+}
+.green.cell {
+  background-image: linear-gradient(to bottom right, green, darkgreen);
+}
+.violet.cell {
+  background-image: linear-gradient(to bottom right, violet, darkviolet);
+}
+.black.cell {
+  background-image: linear-gradient(to bottom right, darkgray, black);
+}
